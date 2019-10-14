@@ -1,0 +1,14 @@
+{
+  "Features": [
+    {
+      "NewTest": {
+        "IsEnabled": "False"
+      }
+    },
+    {
+      "NewTest2": {
+        "IsEnabled": "False"
+      }
+    }
+  ]
+}

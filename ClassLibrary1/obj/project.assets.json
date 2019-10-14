@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v4.7.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v4.7.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Hakhtar\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Repo\\FeatureFlag\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectName": "ClassLibrary1",
+      "projectPath": "C:\\Repo\\FeatureFlag\\ClassLibrary1\\ClassLibrary1.csproj",
+      "packagesPath": "C:\\Users\\Hakhtar\\.nuget\\packages\\",
+      "outputPath": "C:\\Repo\\FeatureFlag\\ClassLibrary1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Hakhtar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard4.7.1"
+      ],
+      "sources": {
+        "http://nuget.sitefinity.com/nuget": {},
+        "https://nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "netstandard4.7.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard4.7.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

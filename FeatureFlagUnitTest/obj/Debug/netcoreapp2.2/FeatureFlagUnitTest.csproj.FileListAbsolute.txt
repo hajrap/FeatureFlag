@@ -1,0 +1,11 @@
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\bin\Debug\netcoreapp2.2\FeatureFlagUnitTest.deps.json
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\bin\Debug\netcoreapp2.2\FeatureFlagUnitTest.runtimeconfig.json
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\bin\Debug\netcoreapp2.2\FeatureFlagUnitTest.runtimeconfig.dev.json
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\bin\Debug\netcoreapp2.2\FeatureFlagUnitTest.dll
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\obj\Debug\netcoreapp2.2\FeatureFlagUnitTest.csprojAssemblyReference.cache
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\obj\Debug\netcoreapp2.2\FeatureFlagUnitTest.csproj.CoreCompileInputs.cache
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\obj\Debug\netcoreapp2.2\FeatureFlagUnitTest.AssemblyInfoInputs.cache
+C:\Repo\FeatureFlag\FeatureFlagUnitTest\obj\Debug\netcoreapp2.2\FeatureFlagUnitTest.AssemblyInfo.cs

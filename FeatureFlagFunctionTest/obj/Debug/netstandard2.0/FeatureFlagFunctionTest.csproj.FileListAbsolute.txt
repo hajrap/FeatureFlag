@@ -1,0 +1,6 @@
+C:\Repo\FeatureFlag\FeatureFlagFunctionTest\bin\Debug\netstandard2.0\FeatureFlagFunctionTest.deps.json
+C:\Repo\FeatureFlag\FeatureFlagFunctionTest\bin\Debug\netstandard2.0\FeatureFlagFunctionTest.dll
+C:\Repo\FeatureFlag\FeatureFlagFunctionTest\obj\Debug\netstandard2.0\FeatureFlagFunctionTest.csprojAssemblyReference.cache
+C:\Repo\FeatureFlag\FeatureFlagFunctionTest\obj\Debug\netstandard2.0\FeatureFlagFunctionTest.csproj.CoreCompileInputs.cache
+C:\Repo\FeatureFlag\FeatureFlagFunctionTest\obj\Debug\netstandard2.0\FeatureFlagFunctionTest.AssemblyInfoInputs.cache
+C:\Repo\FeatureFlag\FeatureFlagFunctionTest\obj\Debug\netstandard2.0\FeatureFlagFunctionTest.AssemblyInfo.cs

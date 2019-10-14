@@ -1,0 +1,15 @@
+C:\Repo\FeatureFlag\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Repo\FeatureFlag\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Repo\FeatureFlag\NUnitTestProject1\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Repo\FeatureFlag\NUnitTestProject1\bin\Debug\netcoreapp2.2\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Repo\FeatureFlag\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestFeatureFag.deps.json
+C:\Repo\FeatureFlag\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestFeatureFag.runtimeconfig.json
+C:\Repo\FeatureFlag\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestFeatureFag.runtimeconfig.dev.json
+C:\Repo\FeatureFlag\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestFeatureFag.dll
+C:\Repo\FeatureFlag\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestFeatureFag.pdb
+C:\Repo\FeatureFlag\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestFeatureFag.csprojAssemblyReference.cache
+C:\Repo\FeatureFlag\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestFeatureFag.csproj.CoreCompileInputs.cache
+C:\Repo\FeatureFlag\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestFeatureFag.AssemblyInfoInputs.cache
+C:\Repo\FeatureFlag\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestFeatureFag.AssemblyInfo.cs
+C:\Repo\FeatureFlag\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestFeatureFag.dll
+C:\Repo\FeatureFlag\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestFeatureFag.pdb
